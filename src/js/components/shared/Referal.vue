@@ -10,7 +10,7 @@
             <p>He simply tells them about us and we pay him for that when his referral code is used.</p>
             <p>Why not help your friend in need of a room and make money in the process?</p>
             <div class="key-links">
-                <a href="/register" class="btn mp-btn big"><i class="fa fa-rocket"></i> Refer Now</a>
+                <a href="#/signup" class="btn mp-btn big"><i class="fa fa-rocket"></i> Refer Now</a>
             </div>
         </div>
         <div class="col-md-4">
