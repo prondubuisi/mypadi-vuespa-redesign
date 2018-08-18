@@ -8,7 +8,7 @@
                 </button>   
 
                 <router-link to ='/' class="navbar-brand">
-                    <img src="https://www.mypadi.ng/img/mypadi-logo.png">
+                    <img src="https://res.cloudinary.com/knownigeria/image/upload/v1531089359/test_images/WhatsApp_Image_2018-07-08_at_22.09.41.jpg">
                 </router-link>
 
             </div>

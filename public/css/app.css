@@ -1,1 +1,8 @@
-body,footer{background:red}
+body {
+  background: red;
+}
+
+footer {
+  background: red;
+}
+
